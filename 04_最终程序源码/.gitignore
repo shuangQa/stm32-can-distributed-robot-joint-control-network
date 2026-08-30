@@ -1,0 +1,20 @@
+# IDE and local configuration
+.idea/
+.vscode/
+
+# CMake output
+build/
+cmake-build-*/
+
+# Compiler output
+*.o
+*.obj
+*.d
+*.su
+*.elf
+*.map
+compile_commands.json
+
+# Temporary files
+*.log
+*.tmp
